@@ -1,6 +1,6 @@
-# Wirre-Gedanken
+# Ideen
 
-## Hier ein paar wirre Gedanken zu 
+## Hier ein paar frische Gedanken zu:
   * Legal analytics
   * Blockchain and law
   * Taxes and Analytics
