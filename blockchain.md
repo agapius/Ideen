@@ -1,4 +1,4 @@
-Blockchain as usual - wo alle eine goldene nase bekommen
+Blockchain as usual - wo alle eine goldene Nase bekommen
 Grundsätzlich - trust ohne intermediary. Wo brauchen wir das? Klassisch um unsere gesellschaft zu organisieren ohne Regierung. Denn meistens ist die Regierung der Intermediary, der Trust gibt.
 Ansonsten auf freien Märkten sind Blockchains um schnell trust zwischen parteien herzustellen - insbesondere mit official checks, ob der andere die Ware hat und mit smart contracts, so dass ware wirklich direkt übergeben wird interessant.
 
